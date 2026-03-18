@@ -1,0 +1,13 @@
+{
+  "name": "@techintel/resume-renderer",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.ts",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "lint": "eslint src --ext .ts,.tsx"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
